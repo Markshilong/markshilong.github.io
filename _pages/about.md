@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D student advised by [Prof. Chunyi Peng](https://www.cs.purdue.edu/homes/chunyi/) in Computer Science at Purdue University. My research interests are in the field of machine learning systems especially in LLM and drones.
+I am a third-year Ph.D student advised by [Prof. Chunyi Peng](https://www.cs.purdue.edu/homes/chunyi/) in Computer Science at Purdue University. Before that, I was advised by [Prof. Xuehai Qian](https://hpc.cs.tsinghua.edu.cn/en/info/1537/2730.htm) in Computer Science at Purdue University for one and a half year. My research interests are in the field of machine learning systems especially in LLM and drones.
 
 Before joining Purdue, I received my B.E. degree in 2022 from Department of Automation, Tsinghua University.
 
