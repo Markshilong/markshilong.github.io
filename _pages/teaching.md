@@ -4,6 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+
 I am currently a Graduate Teaching Assistant in Purdue University.
 
 ## Teaching Assistant
