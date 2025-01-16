@@ -22,8 +22,8 @@ Before joining Purdue, I received my B.E. degree in 2022 from Department of Auto
 - Research Assistant in Dr. Xuehai Qian's Lab  (Aug 2022 - Sep 2023)
 
 ## Awards
-- **MobiCom'25 Best Poster Award**;   _Oct 2024_
-- **Technological Innovation Scholarship of Tsinghua University**;   _Oct 2021_
-- **2019 & 2020 Hage Foundation Scholarship**;   _Apr 2019 & Apr 2020_
-- **AI Competition of Tsinghua University Third Award**;  _Jun 2021_
-- **Winning Prize of Electronics Design Contest of Tsinghua University**  _Aug 2020_
+- MobiCom'25 Best Poster Award;   _Oct 2024_
+- Technological Innovation Scholarship of Tsinghua University;   _Oct 2021_
+- 2019 & 2020 Hage Foundation Scholarship;   _Apr 2019 & Apr 2020_
+- AI Competition of Tsinghua University Third Award;  _Jun 2021_
+- Winning Prize of Electronics Design Contest of Tsinghua University  _Aug 2020_
