@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I am a third-year Ph.D student advised by [Prof. Chunyi Peng](https://www.cs.purdue.edu/homes/chunyi/) in Computer Science at Purdue University. My research interests are in the field of machine learning systems especially in LLM and drones.
 
 Before joining Purdue, I received my B.E. degree in 2022 from Department of Automation, Tsinghua University.
