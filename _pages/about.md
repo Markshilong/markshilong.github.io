@@ -13,9 +13,11 @@ My research interests are in the field of machine learning systems especially in
 
 
 ## News
+- [5/2025] Started Research Scientist internship at Meta Platforms – Ads Training Infra, Sunnyvale, CA, working on Distributed ML Systems.
 - [11/20/2024] Jiaxin Du and I received MobiCom 2024 Best Poster Award.
 - [11/1/2024] Our short paper "D-AirPatrol: A Dual-Layer Architecture for Traffic Patrol From the Sky" has been accepted by MobiCom'24.
-
+- [5/2024] Started Research Scientist internship at ByteDance – Seed, Bellevue, WA, working on LLM Infrastructure.
+- 
 ## Experience
 
 - Meta Platforms – Ads Training Infra, Sunnyvale, CA  
