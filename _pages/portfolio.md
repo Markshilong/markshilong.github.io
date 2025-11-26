@@ -44,7 +44,7 @@ A **perf-accurate simulator** for Diffusion Transformer (DiT) and other LLM mode
 
 ## Out-of-GPU-Core LLM Training System (OOGC-LLM)
 
->Lead Researcher (with Prof. Xuehai Qian & Yikang Yue & Yuxuan Liu) | May 2023 – Jan 2024
+>Lead Researcher (with Prof. Xuehai Qian & Yikang Yue & Yuxuan Liu) | May 2023 – Jan 2024  
 >Purdue University, West Lafayette, IN
 
 A holistic rethinking of ZeRO-Offload / ZeRO-3 limitations, using multi-layer prefetching, lazy all-gather, dynamic memory management, CPU/GPU pipelining, and MoE-aware computation placement.
@@ -69,7 +69,7 @@ A holistic rethinking of ZeRO-Offload / ZeRO-3 limitations, using multi-layer pr
 
 ## CPU Execution Engines: Inference System for ML Models on CPU
 
->Research Assistant (with Prof. Xuehai Qian & Gengyu Rao) | Aug 2022 – Dec 2022
+>Research Assistant (with Prof. Xuehai Qian & Gengyu Rao) | Aug 2022 – Dec 2022  
 >Purdue University, West Lafayette, IN
 
 A CPU-native depth-wise tensor execution model for efficient inference without GPU accelerators.
@@ -87,7 +87,7 @@ A CPU-native depth-wise tensor execution model for efficient inference without G
 ## D-AirPatrol: Drone-based Traffic Monitoring
 
 >MobiCom'24 Best Poster Award  
->Author (with Jiaxin Du & Prof. Chunyi Peng) | Jan 2024 – May 2024
+>Author (with Jiaxin Du & Prof. Chunyi Peng) | Jan 2024 – May 2024  
 >Purdue University, West Lafayette, IN
 
 Designed a drone-to-edge system for real-time vehicle detection & speed estimation.
@@ -108,7 +108,7 @@ Designed a drone-to-edge system for real-time vehicle detection & speed estimati
 
 ## AirLab Platform: UAV Systems & Autonomous Drone Platforms
 
->Full-Stack Developer (with Jiaxin Du & Prof. Chunyi Peng)
+>Full-Stack Developer (with Jiaxin Du & Prof. Chunyi Peng)  
 >Purdue University, West Lafayette, IN
 
 A complete drone experimentation ecosystem: flight logging, DB processing, dashboard management, and map-based visualization.
