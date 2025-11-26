@@ -12,6 +12,7 @@ Please find my portfolio here: [pdf link](../files/portfolio.pdf).
 
 >Research Scientist Intern at Meta Platforms – Ads Training Infra  
 >Mentor: Shuai Yang | May 2025 – Aug 2025 | Sunnyvale, CA
+>[Project Details Doc](https://docs.google.com/document/d/1kgBKlROezGCSbT6bxLv2RWQooqUIzo8-MSbj4euf0LQ/edit?tab=t.0)
 
 Selective Unsharding improves FSDP throughput by strategically *retaining parameters* that reduce redundant communication. It leverages SimpleFSDP’s PT2-friendly graph structure to perform graph-level memory–communication co-optimization.
 - Designed a **Selective Unsharding framework** to eliminate redundant backward all-gathers via memory-aware parameter residency.
