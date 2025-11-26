@@ -26,8 +26,10 @@ Selective Unsharding improves FSDP throughput by strategically *retaining parame
 - Added **configurable all-gather bucket sizes**, improving comm–compute overlap.
 - Achieved **5–5.5% QPS speedup** on OmniFM-v2 under 8×GPU GrandTeton.
 
-<img src="/images/portfolio_images/meta_1.png" alt="Meta SimpleFSDP Selective Unsharding Figure 1" style="max-width: 100%; margin-bottom: 15px;">
-<img src="/images/portfolio_images/meta_2.png" alt="Meta SimpleFSDP Selective Unsharding Figure 2" style="max-width: 100%;">
+<div style="display: flex; gap: 15px; margin-bottom: 15px;">
+  <img src="/images/portfolio_images/meta_1.png" alt="Meta SimpleFSDP Selective Unsharding Figure 1" style="max-width: 48%; flex: 1;">
+  <img src="/images/portfolio_images/meta_2.png" alt="Meta SimpleFSDP Selective Unsharding Figure 2" style="max-width: 48%; flex: 1;">
+</div>
 
 ---
 
@@ -74,8 +76,10 @@ A holistic rethinking of ZeRO-Offload / ZeRO-3 limitations, using multi-layer pr
   - ~20% comm reduction, ~15% MoE speedup
 - Delivered **≈20% end-to-end speedup** in prototype.
 
-<img src="/images/portfolio_images/OOGC_1.png" alt="OOGC-LLM Architecture Figure 1" style="max-width: 100%; margin-bottom: 15px;">
-<img src="/images/portfolio_images/OOGC_2.png" alt="OOGC-LLM Architecture Figure 2" style="max-width: 100%; margin-bottom: 15px;">
+<div style="display: flex; gap: 15px; margin-bottom: 15px;">
+  <img src="/images/portfolio_images/OOGC_1.png" alt="OOGC-LLM Architecture Figure 1" style="max-width: 48%; flex: 1;">
+  <img src="/images/portfolio_images/OOGC_2.png" alt="OOGC-LLM Architecture Figure 2" style="max-width: 48%; flex: 1;">
+</div>
 
 
 ---
@@ -94,7 +98,7 @@ A CPU-native depth-wise tensor execution model for efficient inference without G
 - Implemented a **tensor column depth-wise execution algorithm** for better locality.
 - Achieved improved CPU performance for compute-dense operators.
 
-<img src="/images/portfolio_images/CPU_inference.png" alt="CPU Inference System Diagram" style="max-width: 100%; margin-bottom: 15px;">
+<img src="/images/portfolio_images/CPU_inference.png" alt="CPU Inference System Diagram" style="max-width: 50%; margin-bottom: 15px;">
 
 
 ---
@@ -143,6 +147,7 @@ A complete drone experimentation ecosystem: flight logging, DB processing, dashb
 - Evaluated across **Local / Rural / Highway** with strong MOTA improvement.
 - Showed stability across **altitude** and **resolution** variations.
 
-![AirPatrol_1](../images/portfolio/AirPatrol_1.jpg)
-![AirPatrol_2](../images/portfolio/AirPatrol_2.jpg)
-
+<div style="display: flex; gap: 15px; margin-bottom: 15px;">
+  <img src="/images/portfolio_images/AirPatrol_1.png" alt="AirPatrol 1" style="max-width: 48%; flex: 1;">
+  <img src="/images/portfolio_images/AirPatrol_2.png" alt="AirPatrol 2" style="max-width: 48%; flex: 1;">
+</div>
