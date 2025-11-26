@@ -21,8 +21,8 @@ Selective Unsharding improves FSDP throughput by strategically *retaining parame
 - Achieved **~5.5% QPS speedup** on OmniFM-v2 under 8×GPU GrandTeton.
 
 <div style="display: flex; gap: 15px; margin-bottom: 15px;">
-  <img src="/images/portfolio_images/meta_1.png" alt="Meta SimpleFSDP Selective Unsharding Figure 1" style="max-width: 48%; flex: 1;">
-  <img src="/images/portfolio_images/meta_2.png" alt="Meta SimpleFSDP Selective Unsharding Figure 2" style="max-width: 48%; flex: 1;">
+  <img src="/images/portfolio_images/meta_1.png" alt="Meta SimpleFSDP Selective Unsharding Figure 1" style="max-width: 60%; flex: 1;">
+  <img src="/images/portfolio_images/meta_2.png" alt="Meta SimpleFSDP Selective Unsharding Figure 2" style="max-width: 40%; flex: 1;">
 </div>
 
 ---
@@ -44,7 +44,8 @@ A **perf-accurate simulator** for Diffusion Transformer (DiT) and other LLM mode
 
 ## Out-of-GPU-Core LLM Training System (OOGC-LLM)
 
->Lead Researcher (with Prof. Xuehai Qian & Yikang Yue & Yuxuan Liu) | May 2023 – Jan 2024 | Purdue University, West Lafayette, IN
+>Lead Researcher (with Prof. Xuehai Qian & Yikang Yue & Yuxuan Liu) | May 2023 – Jan 2024
+>Purdue University, West Lafayette, IN
 
 A holistic rethinking of ZeRO-Offload / ZeRO-3 limitations, using multi-layer prefetching, lazy all-gather, dynamic memory management, CPU/GPU pipelining, and MoE-aware computation placement.
 - Proposed multi-layer prefetching + lazy AG, reducing C2G/G2C movement.
@@ -68,14 +69,15 @@ A holistic rethinking of ZeRO-Offload / ZeRO-3 limitations, using multi-layer pr
 
 ## CPU Execution Engines: Inference System for ML Models on CPU
 
->Research Assistant (with Prof. Xuehai Qian & Gengyu Rao) | Aug 2022 – Dec 2022 | Purdue University, West Lafayette, IN
+>Research Assistant (with Prof. Xuehai Qian & Gengyu Rao) | Aug 2022 – Dec 2022
+>Purdue University, West Lafayette, IN
 
 A CPU-native depth-wise tensor execution model for efficient inference without GPU accelerators.
 - Inspired by GPU tensor-grid execution; redesigned for CPU caches & NUMA.
 - Implemented a tensor column depth-wise execution algorithm for better locality.
 - Achieved improved CPU performance for compute-dense operators.
 
-<img src="/images/portfolio_images/CPU_inference.png" alt="CPU Inference System Diagram" style="max-width: 50%; margin-bottom: 15px;">
+<img src="/images/portfolio_images/CPU_inference.png" alt="CPU Inference System Diagram" style="max-width: 65%; margin-bottom: 15px;">
 
 
 
@@ -85,7 +87,8 @@ A CPU-native depth-wise tensor execution model for efficient inference without G
 ## D-AirPatrol: Drone-based Traffic Monitoring
 
 >MobiCom'24 Best Poster Award  
->Author (with Jiaxin Du & Prof. Chunyi Peng) | Jan 2024 – May 2024 | Purdue University, West Lafayette, IN
+>Author (with Jiaxin Du & Prof. Chunyi Peng) | Jan 2024 – May 2024
+>Purdue University, West Lafayette, IN
 
 Designed a drone-to-edge system for real-time vehicle detection & speed estimation.
 - Built a two-layer vision system:
@@ -97,7 +100,7 @@ Designed a drone-to-edge system for real-time vehicle detection & speed estimati
 
 <div style="display: flex; gap: 15px; margin-bottom: 15px;">
   <img src="/images/portfolio_images/AirPatrol_1.png" alt="AirPatrol 1" style="max-width: 48%; flex: 1;">
-  <img src="/images/portfolio_images/AirPatrol_2.png" alt="AirPatrol 2" style="max-width: 48%; flex: 1;">
+  <img src="/images/portfolio_images/AirPatrol_2.png" alt="AirPatrol 2" style="max-width: 52%; flex: 1;">
 </div>
 
 
@@ -105,7 +108,8 @@ Designed a drone-to-edge system for real-time vehicle detection & speed estimati
 
 ## AirLab Platform: UAV Systems & Autonomous Drone Platforms
 
->Full-Stack Developer (with Jiaxin Du & Prof. Chunyi Peng) | Purdue University, West Lafayette, IN
+>Full-Stack Developer (with Jiaxin Du & Prof. Chunyi Peng)
+>Purdue University, West Lafayette, IN
 
 A complete drone experimentation ecosystem: flight logging, DB processing, dashboard management, and map-based visualization.
 - Built Android → Backend → Dashboard pipeline for image/video/flight data.
