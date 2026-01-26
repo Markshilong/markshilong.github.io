@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can find my CV here: [my_cv](../files/My_CV_2025_11_12.pdf).
+You can find my CV here: [my_cv](../files/My_CV_2026_1_2.pdf).
