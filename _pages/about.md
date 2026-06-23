@@ -7,18 +7,31 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D student advised by [Prof. Chunyi Peng](https://www.cs.purdue.edu/homes/chunyi/) in Computer Science at Purdue University. Before that, I was advised by [Prof. Xuehai Qian](https://hpc.cs.tsinghua.edu.cn/en/info/1537/2730.htm) in Computer Science at Purdue University for one and a half years. Before joining Purdue, I received my B.E. degree in 2022 from Department of Automation, Tsinghua University.
+I recently graduated with an M.S. in Computer Science from Purdue University, where I previously pursued a Ph.D. advised by [Prof. Chunyi Peng](https://www.cs.purdue.edu/homes/chunyi/). Before that, I was advised by [Prof. Xuehai Qian](https://hpc.cs.tsinghua.edu.cn/en/info/1537/2730.htm) for one and a half years. Before joining Purdue, I received my B.E. in Automation from Tsinghua University.
 
-My research interests are in the field of machine learning systems especially in LLMs and agentic drones. I'm specializing in large-scale machine learning systems, LLM infrastructure, and efficient training/inference pipelines. My work spans distributed training (FSDP, ZeRO, Megatron), GPU/CPU memory–computation optimization, and large-cluster LLM simulation, strengthened through research roles at ByteDance and Meta. In parallel, I develop end-to-end embodied AI systems, including award-winning drone-based perception platforms that integrate real-time vision, optimization, and robotics. I am committed to advancing scalable AI systems and next-generation intelligent agents.
+My work focuses on large-scale ML / LLM training and serving, distributed training systems (FSDP, ZeRO, data/model parallelism), training and inference efficiency, GPU/CPU memory optimization, and performance profiling for production-scale AI workloads. I have built ML infrastructure across both industry and research, including internships at ByteDance Seed and Meta Ads Infra. I enjoy building scalable ML systems and solving challenging performance bottlenecks in real-world environments.
 
+## Open to Opportunities
+
+I am actively exploring **full-time opportunities starting Summer/Fall 2026**.
+
+**Target roles:** ML Infrastructure / Platform Engineer · LLM Training & Inference Engineer · AI/ML Systems Engineer
+
+**Location:** Bay Area and Seattle preferred; open to other U.S. locations.
+
+If your team is hiring for AI infrastructure, ML systems, or LLM training/serving roles, I'd be happy to connect — please reach out via [email](mailto:shilonghappy@gmail.com).
 
 ## News
+- [7/2026] Starting Software Engineering Internship at Waymo – AI Training Infrastructure.
 - [5/2025] Started Research Scientist internship at Meta Platforms – Ads Training Infra, Sunnyvale, CA, working on Distributed ML Systems.
 - [11/20/2024] Jiaxin Du and I received MobiCom 2024 Best Poster Award.
 - [11/1/2024] Our short paper "D-AirPatrol: A Dual-Layer Architecture for Traffic Patrol From the Sky" has been accepted by MobiCom'24.
 - [5/2024] Started Research Scientist internship at ByteDance – Seed, Bellevue, WA, working on LLM Infrastructure.
-- 
+
 ## Experience
+
+- Waymo  
+  Software Engineering Intern, AI Training Infrastructure · Starting Jul 2026
 
 - Meta Platforms – Ads Training Infra, Sunnyvale, CA  
   Research Scientist Intern in Distributed ML Systems (Mentor: Shuai Yang), May 2025 – Aug 2025  
